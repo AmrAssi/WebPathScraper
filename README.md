@@ -6,13 +6,9 @@ WebPathScraper is a Python-based tool that extracts all website paths from a giv
 
 Features
 Extracts all links from a website
-
 Downloads PDF and image files automatically
-
 Handles errors gracefully
-
 Allows users to specify a save directory for downloaded files
-
 Prerequisites
 Ensure you have Python installed (Python 3 recommended). You also need to install the required dependencies:
 
@@ -20,7 +16,7 @@ pip install requests beautifulsoup4
 Installation
 Clone the repository and navigate to the project directory:
 
-git clone https://github.com/yourusername/WebPathScraper.git
+git clone https://github.com/AmrAssi/WebPathScraper.git
 cd WebPathScraper
 Usage
 Run the script and provide a website URL and a directory to save the downloaded files:
